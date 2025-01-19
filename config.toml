@@ -1,4 +1,4 @@
-baseURL = 'https://peterkinget.github.io'
+baseURL = 'https://peterkinget.github.io/website-test/'
 languageCode = 'en-us'
 title = 'Peter Kinget (TEST)'
 theme = "PaperMod"
