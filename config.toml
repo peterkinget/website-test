@@ -1,0 +1,104 @@
+baseURL = 'https://peterkinget.github.io'
+languageCode = 'en-us'
+title = 'Peter Kinget (TEST)'
+theme = "PaperMod"
+
+copyright = "Peter Kinget"
+
+disqusShortname = 'peterdisquskinget'
+
+# googleAnalytics = "UA-1234-5"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 5
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 10
+
+[[menu.main]]
+name = "Research Group"
+url = "http://www.kingetgroup.ee.columbia.edu/"
+#hrefTargetBlank = true 
+weight = 20
+
+[[menu.main]]
+name = "Publications"
+url = "/publications" 
+#url = "https://www.ee.columbia.edu/~kinget/publications.html" 
+weight = 30
+
+[[menu.main]]
+name = "Teaching"
+url = "/teaching" 
+#url = "http://www.ee.columbia.edu/~kinget/teaching.html" 
+weight = 40
+
+[[menu.main]]
+name = "Why Analog"
+url = "/why_analog" 
+# url = "https://www.ee.columbia.edu/~kinget/why_analog.html"
+weight = 50
+
+ [[menu.main]]
+ name = "Posts"
+ url = "/posts"
+ weight = 115
+
+ [[menu.main]]
+ name = "Tags"
+ url = "/tags"
+ weight = 116
+
+ [[menu.main]]
+ name = "Categories"
+ url = "/categories"
+ weight = 117
+
+
+[params]
+
+  colortheme = "white" # dark, light, white, or classic
+#  rss = true # generate rss feed. default value is false
+#  googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
+  showAllPostsArchive = false # default
+
+  # Home page settings
+  description = "TEST Peter Kinget is the Bernard J. Lechner Professor of Electrical Engineering at Columbia University in New York. He received his engineering and Ph.D. degrees in electrical engineering from the Katholieke Universiteit in Leuven (Belgium). His research group focusses on the design of analog and RF integrated circuits in scaled technologies and the novel systems or applications they enable in communications, sensing, and power management."
+
+#  mainSection = "posts" # your main section
+  showAllPostsOnHomePage = false # default
+  postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
+  tagsOverview = true # show tags overview by default.
+#  showProjectsList = true # show projects list by default (if projects data file exists).
+#  projectsUrl = "https://github.com/gohugoio" # title link for projects list
+
+  # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+  dateFormat = "2006-01-02" # default
+
+  # Post page settings
+  show_updated = true # default
+  showReadTime = true # default
+
+[params.comments]
+  enabled = true # default
+  engine = "disqus" # only disqus, utterances, and cactus_comments is supported
+#  engine = "cactus_comments"
+
+#     [params.comments.cactuscomments]
+#       siteName = "peterkinget.github.io" # see https://cactus.chat/ on how to register your site name
+#       serverUrl = "" # Defaults to https://matrix.cactus.chat:8448 (Cactus Chat public server)
+#       serverName = "" # Defaults to cactus.chat
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/peterkinget"
+[[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/peter-kinget-7481a3/"
+[[params.social]]
+   name = "email"
+   link = "no_email@kinget.net"  # no need for "mailto:" in the head

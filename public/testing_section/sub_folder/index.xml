@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Peter Kinget (TEST)</title>
+    <link>http://localhost:1313/testing_section/sub_folder/</link>
+    <description>Recent content on Peter Kinget (TEST)</description>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en-us</language>
+    <copyright>Peter Kinget</copyright>
+    <lastBuildDate>Sat, 22 Oct 2022 18:43:47 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/testing_section/sub_folder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Subfolder_test</title>
+      <link>http://localhost:1313/testing_section/sub_folder/subfolder_test/</link>
+      <pubDate>Sat, 22 Oct 2022 18:43:47 -0400</pubDate>
+      <guid>http://localhost:1313/testing_section/sub_folder/subfolder_test/</guid>
+      <description>&lt;p&gt;TEST&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/testing_section/second_test/&#34;&gt;a crazy link to second test&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/testing_section/sub_folder/subfolder_test/&#34;&gt;a crazy link to subfolder test&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
