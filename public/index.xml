@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Peter Kinget (TEST)</title>
-    <link>http://localhost:1313/</link>
+    <link>https://peterkinget.github.io/</link>
     <description>Recent content on Peter Kinget (TEST)</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
     <copyright>Peter Kinget</copyright>
     <lastBuildDate>Sat, 22 Oct 2022 18:43:47 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://peterkinget.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Subfolder_test</title>
-      <link>http://localhost:1313/testing_section/sub_folder/subfolder_test/</link>
+      <link>https://peterkinget.github.io/testing_section/sub_folder/subfolder_test/</link>
       <pubDate>Sat, 22 Oct 2022 18:43:47 -0400</pubDate>
-      <guid>http://localhost:1313/testing_section/sub_folder/subfolder_test/</guid>
+      <guid>https://peterkinget.github.io/testing_section/sub_folder/subfolder_test/</guid>
       <description>&lt;p&gt;TEST&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/testing_section/second_test/&#34;&gt;a crazy link to second test&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/testing_section/sub_folder/subfolder_test/&#34;&gt;a crazy link to subfolder test&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://peterkinget.github.io/testing_section/second_test/&#34;&gt;a crazy link to second test&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://peterkinget.github.io/testing_section/sub_folder/subfolder_test/&#34;&gt;a crazy link to subfolder test&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Second_test</title>
-      <link>http://localhost:1313/testing_section/second_test/</link>
+      <link>https://peterkinget.github.io/testing_section/second_test/</link>
       <pubDate>Sat, 22 Oct 2022 18:37:20 -0400</pubDate>
-      <guid>http://localhost:1313/testing_section/second_test/</guid>
+      <guid>https://peterkinget.github.io/testing_section/second_test/</guid>
       <description>&lt;p&gt;Second test&lt;/p&gt;</description>
     </item>
     <item>
       <title>First_test</title>
-      <link>http://localhost:1313/testing_section/first_test/</link>
+      <link>https://peterkinget.github.io/testing_section/first_test/</link>
       <pubDate>Sat, 22 Oct 2022 18:36:32 -0400</pubDate>
-      <guid>http://localhost:1313/testing_section/first_test/</guid>
+      <guid>https://peterkinget.github.io/testing_section/first_test/</guid>
       <description>&lt;p&gt;This is first test&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thoughs on thinking</title>
-      <link>http://localhost:1313/posts/20221010_thoughts_on_thinking/</link>
+      <link>https://peterkinget.github.io/posts/20221010_thoughts_on_thinking/</link>
       <pubDate>Sat, 22 Oct 2022 11:58:27 -0400</pubDate>
-      <guid>http://localhost:1313/posts/20221010_thoughts_on_thinking/</guid>
+      <guid>https://peterkinget.github.io/posts/20221010_thoughts_on_thinking/</guid>
       <description>&lt;p&gt;Here come some thoughts on thinking. Of course this is very personal and
 not work related. And it is very opinionated &amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>What was happening Yesterday?</title>
-      <link>http://localhost:1313/posts/20221021_whatwashappeningyesterday/</link>
+      <link>https://peterkinget.github.io/posts/20221021_whatwashappeningyesterday/</link>
       <pubDate>Sat, 22 Oct 2022 11:56:54 -0400</pubDate>
-      <guid>http://localhost:1313/posts/20221021_whatwashappeningyesterday/</guid>
+      <guid>https://peterkinget.github.io/posts/20221021_whatwashappeningyesterday/</guid>
       <description>&lt;p&gt;Yesterday we had dinner on Times Square &amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is happening on this day</title>
-      <link>http://localhost:1313/posts/20221022_whatishappeningtoday/</link>
+      <link>https://peterkinget.github.io/posts/20221022_whatishappeningtoday/</link>
       <pubDate>Sat, 22 Oct 2022 11:38:09 -0400</pubDate>
-      <guid>http://localhost:1313/posts/20221022_whatishappeningtoday/</guid>
+      <guid>https://peterkinget.github.io/posts/20221022_whatishappeningtoday/</guid>
       <description>&lt;h2 id=&#34;we-will-start-with-a-nice-title-&#34;&gt;We will start with a nice title &amp;hellip;&lt;/h2&gt;
 &lt;p&gt;This is a new post. You ask what is happening today. Remains to be seen,
 the day is not over yet &amp;hellip;&lt;/p&gt;
@@ -59,9 +59,9 @@ the day is not over yet &amp;hellip;&lt;/p&gt;
     </item>
     <item>
       <title>Starting with HUGO and Markdown</title>
-      <link>http://localhost:1313/posts/hugo_and_markdown/</link>
+      <link>https://peterkinget.github.io/posts/hugo_and_markdown/</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hugo_and_markdown/</guid>
+      <guid>https://peterkinget.github.io/posts/hugo_and_markdown/</guid>
       <description>&lt;p&gt;
 These are random notes; they are not intended to be a structured
 tutorial but instead just serve as a notepad of things that were often
@@ -90,25 +90,25 @@ service. &lt;/li&gt;
     </item>
     <item>
       <title>UnderConstruction</title>
-      <link>http://localhost:1313/pages/underconstruction/</link>
+      <link>https://peterkinget.github.io/pages/underconstruction/</link>
       <pubDate>Sun, 16 Oct 2022 10:30:38 -0400</pubDate>
-      <guid>http://localhost:1313/pages/underconstruction/</guid>
+      <guid>https://peterkinget.github.io/pages/underconstruction/</guid>
       <description>&lt;p&gt;The Writing part of the website is still under construction &amp;hellip;&lt;/p&gt;
 &lt;p&gt;I am using &lt;a href=&#34;https://gohugo.io&#34;&gt;HUGO&lt;/a&gt; to generate this website with the
 &lt;a href=&#34;https://github.com/monkeyWzr/hugo-theme-cactus&#34;&gt;cactus theme&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>UnderConstruction</title>
-      <link>http://localhost:1313/underconstruction/</link>
+      <link>https://peterkinget.github.io/underconstruction/</link>
       <pubDate>Sun, 16 Oct 2022 10:30:08 -0400</pubDate>
-      <guid>http://localhost:1313/underconstruction/</guid>
+      <guid>https://peterkinget.github.io/underconstruction/</guid>
       <description></description>
     </item>
     <item>
       <title>Why_analog</title>
-      <link>http://localhost:1313/why_analog/</link>
+      <link>https://peterkinget.github.io/why_analog/</link>
       <pubDate>Sat, 15 Oct 2022 19:51:10 -0400</pubDate>
-      <guid>http://localhost:1313/why_analog/</guid>
+      <guid>https://peterkinget.github.io/why_analog/</guid>
       <description>&lt;h1&gt;The (electronic) world is going Digital, why Analog?&lt;/h1&gt;
 
 &lt;ul&gt;  
@@ -364,9 +364,9 @@ bytes, while monitors reverse the transaction.  &#34;&lt;/i&gt;
     </item>
     <item>
       <title>Teaching</title>
-      <link>http://localhost:1313/teaching/</link>
+      <link>https://peterkinget.github.io/teaching/</link>
       <pubDate>Sat, 15 Oct 2022 19:21:49 -0400</pubDate>
-      <guid>http://localhost:1313/teaching/</guid>
+      <guid>https://peterkinget.github.io/teaching/</guid>
       <description>&lt;center&gt;
   &lt;h1&gt; Teaching&lt;/h1&gt;
 &lt;/center&gt;
@@ -808,9 +808,9 @@ EE6304: Advanced Electronic Circuits: &lt;br&gt;Analog/RF Integrated Circuits fo
     </item>
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/publications/</link>
+      <link>https://peterkinget.github.io/publications/</link>
       <pubDate>Sat, 15 Oct 2022 18:18:32 -0400</pubDate>
-      <guid>http://localhost:1313/publications/</guid>
+      <guid>https://peterkinget.github.io/publications/</guid>
       <description>&lt;center&gt;&lt;h1&gt;Publications&lt;/h1&gt;&lt;/center&gt;
 
 &lt;p&gt; Publications are listed by type and in chronological order, so the most
@@ -2282,9 +2282,9 @@ Kinget, &lt;a href=&#34;go_google_patents.html&#34;&gt;&#34;Low Voltage Comparat
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/pages/contact/</link>
+      <link>https://peterkinget.github.io/pages/contact/</link>
       <pubDate>Thu, 06 Oct 2022 19:13:58 -0400</pubDate>
-      <guid>http://localhost:1313/pages/contact/</guid>
+      <guid>https://peterkinget.github.io/pages/contact/</guid>
       <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
 &lt;pre&gt;&lt;code&gt;Peter Kinget
 Bernard J. Lechner Professor of Electrical Engineering
@@ -2304,13 +2304,13 @@ office hours:	Wednesdays 2:30pm-3:30pm or by appt.
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://peterkinget.github.io/about/</link>
       <pubDate>Thu, 06 Oct 2022 19:09:41 -0400</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/publications/&#34;&gt;Publications&lt;/a&gt;&lt;/p&gt;
+      <guid>https://peterkinget.github.io/about/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://peterkinget.github.io/publications/&#34;&gt;Publications&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.kingetgroup.ee.columbia.edu&#34;&gt;Research Group&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/teaching/&#34;&gt;Teaching&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Biography&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://peterkinget.github.io/teaching/&#34;&gt;Teaching&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://peterkinget.github.io/about/&#34;&gt;Biography&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
 &lt;pre&gt;&lt;code&gt;Peter Kinget
 Bernard J. Lechner Professor of Electrical Engineering
@@ -2330,9 +2330,9 @@ mailing address:
     </item>
     <item>
       <title>PCB Design</title>
-      <link>http://localhost:1313/posts/pcb_design/</link>
+      <link>https://peterkinget.github.io/posts/pcb_design/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/pcb_design/</guid>
+      <guid>https://peterkinget.github.io/posts/pcb_design/</guid>
       <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
 &lt;h2 id=&#34;headline-1&#34;&gt;
 PCB Tools
@@ -2395,9 +2395,9 @@ PCB Fabrication
     </item>
     <item>
       <title>Analog Circuit Simulation</title>
-      <link>http://localhost:1313/posts/circuit_simulation/</link>
+      <link>https://peterkinget.github.io/posts/circuit_simulation/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/circuit_simulation/</guid>
+      <guid>https://peterkinget.github.io/posts/circuit_simulation/</guid>
       <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
 &lt;h2 id=&#34;headline-1&#34;&gt;
 Some Spice Simulators
