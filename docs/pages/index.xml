@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Peter Kinget (TEST)</title>
-    <link>https://peterkinget.github.io/website-test/pages/</link>
+    <link>http://localhost:1313/website-test/pages/</link>
     <description>Recent content in Pages on Peter Kinget (TEST)</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Peter Kinget</copyright>
     <lastBuildDate>Sun, 16 Oct 2022 10:30:38 -0400</lastBuildDate>
-    <atom:link href="https://peterkinget.github.io/website-test/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/website-test/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UnderConstruction</title>
-      <link>https://peterkinget.github.io/website-test/pages/underconstruction/</link>
+      <link>http://localhost:1313/website-test/pages/underconstruction/</link>
       <pubDate>Sun, 16 Oct 2022 10:30:38 -0400</pubDate>
-      <guid>https://peterkinget.github.io/website-test/pages/underconstruction/</guid>
+      <guid>http://localhost:1313/website-test/pages/underconstruction/</guid>
       <description>&lt;p&gt;The Writing part of the website is still under construction &amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;I am using &lt;a href=&#34;https://gohugo.io&#34;&gt;HUGO&lt;/a&gt; to generate this website with the&#xA;&lt;a href=&#34;https://github.com/monkeyWzr/hugo-theme-cactus&#34;&gt;cactus theme&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://peterkinget.github.io/website-test/pages/contact/</link>
+      <link>http://localhost:1313/website-test/pages/contact/</link>
       <pubDate>Thu, 06 Oct 2022 19:13:58 -0400</pubDate>
-      <guid>https://peterkinget.github.io/website-test/pages/contact/</guid>
+      <guid>http://localhost:1313/website-test/pages/contact/</guid>
       <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;pre&gt;&lt;code&gt;Peter Kinget&#xA;Bernard J. Lechner Professor of Electrical Engineering&#xA;office:&#x9;CEPSR 1009 (Shapiro)&#xA;email:&#x9;peter dot kinget AT dot columbia dot edu&#xA;office:&#x9;+1-212-854-0309&#xA;fax:&#x9;+1-212-932-9421&#xA;mail address:&#x9;&#xA;    Columbia Universtiy &#xA;&#x9;Dept. of Electrical Engineering&#xA;    1300 S. W. Mudd Building&#xA;    500 West 120th Street&#xA;    New York, NY 10027, U.S.A&#xA;&#x9;&#xA;office hours:&#x9;Wednesdays 2:30pm-3:30pm or by appt.&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>

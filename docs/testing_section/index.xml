@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>the index on Peter Kinget (TEST)</title>
-    <link>https://peterkinget.github.io/website-test/testing_section/</link>
+    <link>http://localhost:1313/website-test/testing_section/</link>
     <description>Recent content in the index on Peter Kinget (TEST)</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Peter Kinget</copyright>
     <lastBuildDate>Sat, 22 Oct 2022 18:37:20 -0400</lastBuildDate>
-    <atom:link href="https://peterkinget.github.io/website-test/testing_section/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/website-test/testing_section/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second_test</title>
-      <link>https://peterkinget.github.io/website-test/testing_section/second_test/</link>
+      <link>http://localhost:1313/website-test/testing_section/second_test/</link>
       <pubDate>Sat, 22 Oct 2022 18:37:20 -0400</pubDate>
-      <guid>https://peterkinget.github.io/website-test/testing_section/second_test/</guid>
+      <guid>http://localhost:1313/website-test/testing_section/second_test/</guid>
       <description>&lt;p&gt;Second test&lt;/p&gt;</description>
     </item>
     <item>
       <title>First_test</title>
-      <link>https://peterkinget.github.io/website-test/testing_section/first_test/</link>
+      <link>http://localhost:1313/website-test/testing_section/first_test/</link>
       <pubDate>Sat, 22 Oct 2022 18:36:32 -0400</pubDate>
-      <guid>https://peterkinget.github.io/website-test/testing_section/first_test/</guid>
+      <guid>http://localhost:1313/website-test/testing_section/first_test/</guid>
       <description>&lt;p&gt;This is first test&lt;/p&gt;</description>
     </item>
   </channel>
