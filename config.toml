@@ -1,7 +1,7 @@
 baseURL = 'https://peterkinget.github.io/website-test/'
 languageCode = 'en-us'
 title = 'Peter Kinget (TEST)'
-theme = "devise"
+theme = "PaperMod"
 publishDir = "docs"
 
 copyright = "Peter Kinget"

@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CatPersonal on Peter Kinget (TEST)</title>
-    <link>http://localhost:1313/website-test/categories/catpersonal/</link>
+    <link>https://peterkinget.github.io/website-test/categories/catpersonal/</link>
     <description>Recent content in CatPersonal on Peter Kinget (TEST)</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
     <copyright>Peter Kinget</copyright>
     <lastBuildDate>Sat, 22 Oct 2022 11:58:27 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/website-test/categories/catpersonal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://peterkinget.github.io/website-test/categories/catpersonal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thoughs on thinking</title>
-      <link>http://localhost:1313/website-test/posts/20221010_thoughts_on_thinking/</link>
+      <link>https://peterkinget.github.io/website-test/posts/20221010_thoughts_on_thinking/</link>
       <pubDate>Sat, 22 Oct 2022 11:58:27 -0400</pubDate>
-      <guid>http://localhost:1313/website-test/posts/20221010_thoughts_on_thinking/</guid>
-      <description>&lt;p&gt;Here come some thoughts on thinking. Of course this is very personal and&#xA;not work related. And it is very opinionated &amp;hellip;&lt;/p&gt;</description>
+      <guid>https://peterkinget.github.io/website-test/posts/20221010_thoughts_on_thinking/</guid>
+      <description>&lt;p&gt;Here come some thoughts on thinking. Of course this is very personal and
+not work related. And it is very opinionated &amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
