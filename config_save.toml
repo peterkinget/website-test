@@ -4,7 +4,7 @@ title = 'Peter Kinget (TEST)'
 theme = "PaperMod"
 publishDir = "docs"
 
-copyright = "Peter Kinget"
+copyright = "© [Peter Kinget](https://peterkinget.github.io)"
 
 disqusShortname = 'peterdisquskinget'
 

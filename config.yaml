@@ -1,0 +1,82 @@
+baseURL: 'https://peterkinget.github.io/website-test/'
+languageCode: en-us
+title: Peter T. Kinget
+theme: PaperMod
+publishDir: docs
+copyright: "© [Peter Kinget](https://peterkinget.github.io)"
+disqusShortname: peterdisquskinget
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 5
+    - name: About
+      url: /about
+      weight: 10
+    - name: Research Group
+      url: 'http://www.kingetgroup.ee.columbia.edu/'
+      weight: 20
+    - name: Publications
+      url: /publications
+      weight: 30
+    - name: Teaching
+      url: /teaching
+      weight: 40
+    - name: Why Analog
+      url: /why_analog
+      weight: 50
+    - name: Posts
+      url: /posts
+      weight: 115
+    - name: Tags
+      url: /tags
+      weight: 116
+    - name: Categories
+      url: /categories
+      weight: 117
+
+params:
+  profileMode:
+    enabled: true
+    title: "Peter R. Kinget"
+    imageUrl: "https://www.ee.columbia.edu/~kinget/images/kinget_jan_2011.png"
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+
+  homeInfoParams:
+    Title: Peter Kinget
+    Content: Peter Kinget is the Bernard J. Lechner Professor of Electrical
+             Engineering at Columbia University in New York. He received his engineering
+             and Ph.D. degrees in electrical engineering from the Katholieke Universiteit
+             in Leuven (Belgium). His research group focusses on the design of analog and
+             RF integrated circuits in scaled technologies and the novel systems or
+             applications they enable in communications, sensing, and power management.    
+            
+
+  socialIcons:
+    - name: github
+      link: 'https://github.com/peterkinget'
+    - name: linkedin
+      link: 'https://www.linkedin.com/in/peter-kinget-7481a3/'
+    - name: email
+      link: no_email@kinget.net
+
+  ShowReadingTime: true
+
+  
+  colortheme: white
+  showAllPostsArchive: false
+  
+  showAllPostsOnHomePage: false
+  postsOnHomePage: 5
+  tagsOverview: true
+  dateFormat: '2006-01-02'
+  show_updated: true
+  showReadTime: true
+  comments:
+    enabled: true
+    engine: disqus
+  
